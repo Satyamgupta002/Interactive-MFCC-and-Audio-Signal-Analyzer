@@ -1,1 +1,8 @@
-Interactive-MFCC-and-Audio-Signal-Analyzer
+streamlit
+numpy
+matplotlib
+librosa
+scipy
+soundfile
+datetime
+uuid
