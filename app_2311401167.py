@@ -109,10 +109,10 @@ st.markdown("<h2 style='text-align: center;'>Interactive MFCC and Audio Signal A
 
 st.markdown("<h4 style='text-align: center;'>Submitted By: Satyam Gupta</h4>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center;'>Scholar No.: 2311401167</h4>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center;'>Audio File Used: s7.wav</h4>", unsafe_allow_html=True)
+# st.markdown("<h4 style='text-align: center;'>Audio File Used: s7.wav</h4>", unsafe_allow_html=True)
 
 # ========== Load Audio ==========
-uploaded_file = st.file_uploader("s7.wav", type="wav")
+uploaded_file = st.file_uploader("Upload the file", type="wav")
 
 
 # ========== Tabbed Section Layout ==========
@@ -204,5 +204,6 @@ if uploaded_file:
         - Demonstrates how filter count affects features.
         - Useful for tuning performance in classification tasks.
         """)
+
 
 
