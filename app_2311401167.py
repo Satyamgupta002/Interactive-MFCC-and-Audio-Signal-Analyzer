@@ -47,7 +47,7 @@ def compute_mfcc(mel_energy, num_ceps=13):
     return mfcc
 
 def plot_waveform_and_spectrum(signal, sr):
-    fig, axs = plt.subplots(2, 1, figsize=(15, 6))
+    fig, axs = plt.subplots(2, 1, figsize=(10, 10))
     axs[0].plot(np.arange(len(signal)) / sr, signal)
     axs[0].set_title("Time-Domain Signal")
     axs[0].set_xlabel("Time (s)")
@@ -204,4 +204,5 @@ if uploaded_file:
         - Demonstrates how filter count affects features.
         - Useful for tuning performance in classification tasks.
         """)
+
 
