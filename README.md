@@ -97,6 +97,7 @@ streamlit run app_2311401167.py
 ## 🙌 Author
 
 **Satyam Gupta**
+
 B.Tech, Electronics & Communication Engineering
 MANIT Bhopal
 
