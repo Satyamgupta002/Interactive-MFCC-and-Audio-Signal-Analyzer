@@ -85,12 +85,6 @@ streamlit run app_2311401167.py
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of your app here for better visualization*
-
----
-
 ## 🎯 Use Cases
 
 * Audio signal processing learning
