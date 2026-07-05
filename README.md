@@ -4,7 +4,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## Features
+### Features
 
 * **Time & Frequency Domain Analysis**
 
@@ -34,7 +34,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 * **Frontend/UI**: Streamlit
 * **Audio Processing**: Librosa, SciPy
@@ -43,7 +43,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## Concepts Covered
+### Concepts Covered
 
 * Signal Framing & Windowing (Hamming Window)
 * Fast Fourier Transform (FFT)
@@ -54,7 +54,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## How It Works
+### How It Works
 
 1. Upload an audio `.wav` file
 2. Select parameters:
@@ -70,7 +70,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## Getting Started
+### Getting Started
 
 ```bash
 git clone https://github.com/Satyamgupta002/Interactive-MFCC-and-Audio-Signal-Analyzer.git
@@ -78,11 +78,11 @@ pip install -r requirements.txt
 streamlit run app_2311401167.py
 ```
 ---
-## Live Link
+### Live Link
 
 #### <a>https://interactive-mfcc-and-audio-signal-analyzer-satyam-gupta.streamlit.app/</a>
 ---
-## Use Cases
+### Use Cases
 
 * Audio signal processing learning
 * Speech & music analysis
@@ -91,7 +91,7 @@ streamlit run app_2311401167.py
 
 ---
 
-## Author
+### Author
 
 **Satyam Gupta**
 
@@ -100,6 +100,6 @@ MANIT Bhopal
 
 ---
 
-## Show Your Support
+### Show Your Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
