@@ -112,7 +112,7 @@ st.markdown("<h4 style='text-align: center;'>Scholar No.: 2311401167</h4>", unsa
 # st.markdown("<h4 style='text-align: center;'>Audio File Used: s7.wav</h4>", unsafe_allow_html=True)
 
 # ========== Load Audio ==========
-uploaded_file = st.file_uploader("Upload the file", type="wav")
+uploaded_file = st.file_uploader("Upload the file", type=["wav","mp3","m4a"])
 
 
 # ========== Tabbed Section Layout ==========
