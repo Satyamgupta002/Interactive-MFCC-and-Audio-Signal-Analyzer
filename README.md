@@ -1,40 +1,40 @@
-# 🎧 Interactive MFCC and Audio Signal Analyzer
+# Interactive MFCC and Audio Signal Analyzer
 
-An interactive audio signal analysis tool built using **Streamlit** to visualize waveform, frequency spectrum, spectrogram, and MFCC features. The application allows users to explore how different signal processing parameters affect feature extraction.
+An interactive audio signal analysis tool built using **Streamlit** to visualize waveform, frequency and time spectrum, spectrogram, and MFCC(Mel-Frequency Cepstral Coefficients) features. The application allows users to explore how different signal processing parameters affect feature extraction.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📈 **Time & Frequency Domain Analysis**
+* **Time & Frequency Domain Analysis**
 
   * Visualize waveform (time-domain)
   * Analyze frequency spectrum using FFT
 
-* 🎼 **Spectrogram vs MFCC Comparison**
+* **Spectrogram vs MFCC Comparison**
 
   * Mel Spectrogram visualization
   * MFCC heatmap representation
   * Understand differences between spectral and cepstral features
 
-* ⚙️ **Interactive Frame & Overlap Configuration**
+* **Interactive Frame & Overlap Configuration**
 
   * Adjust frame size and overlap
   * Observe impact on MFCC extraction
 
-* 🎛️ **Mel Filter Bank Customization**
+* **Mel Filter Bank Customization**
 
   * Configure number of Mel filters (20–60)
   * Visualize filter banks
   * Analyze effect on MFCC features
 
-* 📂 **Audio Upload Support**
+* **Audio Upload Support**
 
   * Upload `.wav` files and analyze instantly
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend/UI**: Streamlit
 * **Audio Processing**: Librosa, SciPy
@@ -43,7 +43,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 * Signal Framing & Windowing (Hamming Window)
 * Fast Fourier Transform (FFT)
@@ -54,7 +54,7 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## 📊 How It Works
+## How It Works
 
 1. Upload an audio `.wav` file
 2. Select parameters:
