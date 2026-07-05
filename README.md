@@ -1,4 +1,4 @@
-# Interactive MFCC and Audio Signal Analyzer
+## Interactive MFCC and Audio Signal Analyzer
 
 An interactive audio signal analysis tool built using **Streamlit** to visualize waveform, frequency and time spectrum, spectrogram, and MFCC(Mel-Frequency Cepstral Coefficients) features. The application allows users to explore how different signal processing parameters affect feature extraction.
 
@@ -70,22 +70,19 @@ An interactive audio signal analysis tool built using **Streamlit** to visualize
 
 ---
 
-## ▶️ Run Locally
+## Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git](https://github.com/Satyamgupta002/Interactive-MFCC-and-Audio-Signal-Analyzer.git
-
-# Install dependencies
+git clone https://github.com/Satyamgupta002/Interactive-MFCC-and-Audio-Signal-Analyzer.git
 pip install -r requirements.txt
-
-# Run the app
 streamlit run app_2311401167.py
 ```
-
 ---
+## Live Link
 
-## 🎯 Use Cases
+#### <a>https://interactive-mfcc-and-audio-signal-analyzer-satyam-gupta.streamlit.app/</a>
+---
+## Use Cases
 
 * Audio signal processing learning
 * Speech & music analysis
@@ -94,15 +91,15 @@ streamlit run app_2311401167.py
 
 ---
 
-## 🙌 Author
+## Author
 
 **Satyam Gupta**
 
-B.Tech, Electronics & Communication Engineering
+B.Tech, Electronics & Communication Engineering <br>
 MANIT Bhopal
 
 ---
 
-## ⭐ Show Your Support
+## Show Your Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
